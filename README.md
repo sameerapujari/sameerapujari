@@ -5,8 +5,7 @@ Me: Building projects, DSA practice and more pratice, and a curious mind.
 ---
 
 ## Currently Working On
-- **Portfolio Website**: Clean, responsive web portfolio showcasing projects and skills. 
-- Most importantly : Strengthening **DSA concepts** and preparing for coding rounds and interviews.
+- Strengthening **DSA concepts** and preparing for coding rounds and interviews.
 
 ---
 
