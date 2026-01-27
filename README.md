@@ -1,6 +1,6 @@
 # 💫 About Me:
 Currently focusing on **DSA (topic-wise)**, **Dev**, and **core CS fundamentals**
-- I like building things that are **simple, clean, and explainable**<br>.
+- I like building things that are **simple, clean, and explainable.**<br>
 
 
 ## 🌐 Socials:
