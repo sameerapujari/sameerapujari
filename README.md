@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently focusing on **DSA (topic-wise)**, **Dev**, and **core CS fundamentals**
+Currently focusing on **DSA**, **Dev**, and **core CS fundamentals**
 - I like building things that are **simple, clean, and explainable.**<br>
 
 
