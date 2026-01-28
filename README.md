@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineering+Student;DSA+%7C+Problem+Solving;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;" />
 </p>
 
 # 💫 About Me:
