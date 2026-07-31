@@ -25,9 +25,8 @@
 
 ## About
 
-- Interested in **Backend Engineering**, **Software Engineering**, and **Developer Tools**
-- Currently strengthening **DSA**, **System Design**, and **Core CS Fundamentals**
-- Enjoy building practical projects focused on performance, scalability, and clean architecture
+- Curious about backend systems and the engineering behind great software
+- Focused on **DSA**, **System Design**, and **Core CS Fundamentals**
 
 ---
 
@@ -86,10 +85,10 @@
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
-- System Design Fundamentals
-- Open Source Development
+- Open Source Dev
+- ASP.Net 
 
 ---
 
@@ -106,6 +105,11 @@
 </p>
 
 ---
+---
+
+<p align="center">
+  <i>"Every day is a chance to learn, evolve, and become a little better than yesterday ;)"</i>
+</p>
 
 <p align="center">
 Thanks for visiting my profile.
